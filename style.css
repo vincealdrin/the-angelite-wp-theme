@@ -1,0 +1,29 @@
+/*
+ Theme Name:   JustWrite Child
+ Theme URI:    http://www.acosmin.com/theme/justwrite/
+ Description:  JustWrite Child Theme
+ Author:       Acosmin
+ Author URI:   http://www.acosmin.com
+ Template:     justwrite
+ Version:      100000.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         black, white, light, dark, two-columns, three-columns, left-sidebar, right-sidebar, fixed-layout, custom-colors, custom-header, custom-menu, editor-style, featured-images, fluid-layout, full-width-template, theme-options, translation-ready, responsive-layout
+ Text Domain:  justwrite-child
+*/
+
+/*
+ For more info on child themes access this page: https://codex.wordpress.org/Child_Themes
+ You can add your customizations below
+*/
+
+body{font-family:'Minion Pro',serif !important}
+section.container.mini-disabled.builder-on.main-section.clearfix{margin-bottom: 0}
+header.section-heading.sh-large.twelvecol{border-top-style: none}
+h1,h2,h3,h4,h5,h6{font-family:'Franklin Gothic','Poppins',sans-serif !important}
+.ss-nav-btn span {border-style: none}
+.tcenter {text-align: center}
+#gallery-title {font-size: 2rem}
+#gallery-title a {color: #000 !important}
+#gallery-title a:hover {text-decoration: underline !important}
+#gallery-author {background-color: #5b0000;}
